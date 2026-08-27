@@ -2,7 +2,16 @@
 
 #include <string> 
 
+#include <cassert>
+
 using namespace std;
+
+int compare_strings (string word_1, string word_2)
+{
+
+
+    return 0;
+};
 
 int main()
 {
